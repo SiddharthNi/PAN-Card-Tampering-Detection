@@ -186,7 +186,7 @@ Find contours works on binary image and retrieve the contours. These contours ar
     
 ## Screenshots
 ### Orignal 
-    ![orignal](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/a231fd7e-6713-499d-aa1c-d4586e25469d)
+    ![orignal](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/a231fd7e-6713-499d-aa1c-d4586e25469d) 
 
 ### Tampering
     ![tempared](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/e04b43e9-a927-4eac-b0b6-aa562f386b83)
