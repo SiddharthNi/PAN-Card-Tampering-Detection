@@ -185,27 +185,37 @@ Find contours works on binary image and retrieve the contours. These contours ar
 
     
 ## Screenshots
+### Orignal 
+    ![orignal](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/a231fd7e-6713-499d-aa1c-d4586e25469d)
+
+### Tampering
+    ![tempared](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/e04b43e9-a927-4eac-b0b6-aa562f386b83)
+
 
 ### Display original image
 original
 
-Output :
+Output :![op1](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/75ed59bd-209b-407e-8c58-1b20b11058d8)
+
  
 Display user-provided image which will be compared with PAN card.
 ### Display user given image
 tampered
 
-Output :
+Output :![0p2](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/3d6dccd9-fbc6-4904-a9b1-073c2ff6a3af)
+
 
 ### Difference bw the 2 Images
 Difference bw the 2 Images
 
-Output :
+Output :![op3](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/eea912a2-df12-46da-a5c3-0b8d62de2633)
+
 
 ### Threshold Image
 Threshold Image
 
-Output :
+Output :![t4](https://github.com/SiddharthNi/PAN-Card-Tampering-Detection/assets/116881073/58c91c5c-68ae-453f-99b5-b5e77af82954)
+
 
 ## Lessons Learned
 
